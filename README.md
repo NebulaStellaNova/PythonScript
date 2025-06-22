@@ -1,15 +1,11 @@
 # Python Script
 
-!! THIS IS IN BETA !!
+CANCELLED - Just make a string converter
 
-Expect Issues
+~~!! THIS IS IN BETA !!~~
 
-Python Scripting for Haxe(Flixel)
+~~Expect Issues~~
 
-Heavily Referenced HScript to make this.
+~~Python Scripting for Haxe~~
 
-Example:
-```python
-def create():
-    print("hello")
-```
+~~Heavily Referenced HScript to make this.~~

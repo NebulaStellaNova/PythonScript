@@ -3,7 +3,7 @@
   "url": "https://github.com/NebulaStellaNova/PythonScript",
   "license": "MIT",
   "description": "Python Script is a scripting engine for a subset of the Java language",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "releasenote": "Initial",
   "contributors": ["NebulaStellaNova", "HaxeFoundation"]
 }
