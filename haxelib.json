@@ -5,5 +5,5 @@
   "description": "Python Script is a scripting engine for a subset of the Java language",
   "version": "0.0.1",
   "releasenote": "Initial",
-  "contributors": ["NebulaStellaNova"]
+  "contributors": ["NebulaStellaNova", "HaxeFoundation"]
 }
